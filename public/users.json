@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3,
+    "name": "Mehitha Mehitha",
+    "role": "user",
+    "email": "angelinmehitha@gmail.com",
+    "phone": "08072385214",
+    "password": "12345678"
+  },
+  {
+    "id": 4,
+    "name": "Mehitha J",
+    "role": "admin",
+    "email": "mehitha@jr.org",
+    "phone": "8072385214",
+    "password": "12345678"
+  }
+]
